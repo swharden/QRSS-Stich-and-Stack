@@ -6,7 +6,7 @@
 
 ## Download
 
-Click-to-run EXEs are in the [/bin](/bin) folder
+Click-to-run EXEs are in the [/download](/download) folder
 
 ## Project status: Beta
 
